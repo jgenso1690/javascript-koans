@@ -44,7 +44,7 @@ describe("About Objects", function() {
       }
     };
    
-    expect(currentYear).toBe(FILL_ME_IN);
+    expect(currentYear).toBe(2020 - 1970);
     expect(meglomaniac.calculateAge()).toBe(FILL_ME_IN);
   });
 
